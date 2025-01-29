@@ -1,2 +1,2 @@
 # CQRS-Example
-This is CQRS Demo.
+This is CQRS Demo updated.
